@@ -1,0 +1,40 @@
+.logo {
+width: 129px;
+height: 117 px;
+margin: 27px 575px 0px 575px;
+}
+
+.main-rectangle {
+    width: 315px;
+    height: 528px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--grey-100, #D9D9D9);
+    margin: 50px 482px 0px 483px;
+    position: relative; 
+  }
+  
+  .text-one {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute; 
+    top: 31px; 
+    left: 27px; 
+  }
+
+  .full-name {
+    color: #000;
+    font-family: Montserrat, 'Times New roman';
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    top: 75px;
+    left: 27px;
+
+  }
